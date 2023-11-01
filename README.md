@@ -1,6 +1,6 @@
 # Hasher
 ## Background
-I've been reading through Alex Xu and Sahm Lam books on system design and decided it would be fun and cool to implement 
+I've been reading through Alex Xu and Sahn Lam books on system design and decided it would be fun and cool to implement 
 a project which could really show off the differences and benefits in using consistent hashing for distributing keys 
 across servers in a cluster for something like sharding rather than using something like moding the hash value of the key.
 
